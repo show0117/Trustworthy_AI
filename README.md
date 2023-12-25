@@ -4,7 +4,7 @@
 This is an implemetation project of "Evil Model" mentioned in Zhi Wang(2021). 
 <https://arxiv.org/pdf/2107.08590.pdf?>
 
-This program aims to help Ernst & Young clients learn about the latest malware attack methods and understand the importance of information security maintenance.
+This program is cooperated with Ernst & Young DA&DET Team, aiming to help EY's clients learn about the latest malware attack methods and understand the importance of information security maintenance.
 
 ## Methodology
 In the paper EvilModel: Hiding Malware Inside of Neural Network Models, a technology called fast substitution is mentioned, which converts the virus code into IEEE-754 standard 32-bit floating point numbers and replaces the parameters. The method is embedded in the deep learning model to avoid detection by anti-virus software. 
